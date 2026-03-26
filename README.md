@@ -34,7 +34,7 @@ Everything runs locally. No cloud. No accounts. No internet required after insta
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reportbuilder.git
+git clone https://github.com/Brynrg/reportbuilder.git
 cd reportbuilder
 ```
 
