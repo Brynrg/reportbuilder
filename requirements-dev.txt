@@ -1,0 +1,6 @@
+# Development and testing dependencies
+-r requirements.txt
+-r requirements-ai.txt
+pytest>=7.4
+pytest-cov>=4.1
+pyinstaller>=6.0

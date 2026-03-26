@@ -1,0 +1,6 @@
+# Optional: local AI planner model support
+# The app works fully without these — the deterministic fallback handles all common requests.
+# Install only if you want to use a local ONNX language model for plan generation.
+onnxruntime>=1.16
+transformers>=4.36
+tokenizers>=0.15
